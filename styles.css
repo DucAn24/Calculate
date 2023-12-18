@@ -6,6 +6,17 @@ body{
     height: 100vh;
     background-color: hsl(0, 0%, 95%);
 }
+#title{
+    background-color: hsl(0, 0%, 40%);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(0, 0%, 95%);
+
+}
+
 #calculator{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
